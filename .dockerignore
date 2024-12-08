@@ -1,0 +1,11 @@
+vendor/
+node_modules/
+.git/
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-debug.log
+yarn-error.log
